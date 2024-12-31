@@ -1,2 +1,2 @@
 # otero
- https://reoshiozawa.github.io/otero/
+ https://reoshiozawa.github.io/osero/
